@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Alexey Bragin
+- 🌱 I’m currently learning html/css/js
